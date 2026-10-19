@@ -6,7 +6,7 @@ source.dir = .
 source.include_exts = py,png,jpg,ttf
 version = 1.0.0
 requirements = python3,kivy==2.3.0
-orientation = sensor
+orientation = portrait
 fullscreen = 0
 icon.filename = %(source.dir)s/assets/icon.png
 presplash.filename = %(source.dir)s/assets/logo.png
